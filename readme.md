@@ -1,6 +1,6 @@
 Creating a secure communication system using Java that integrates blockchain, Tor technology, and encryption is a complex task. Below is a simplified example that demonstrates how to create a basic client-server communication system with encryption. This example does not fully implement blockchain or Tor but provides a foundation that you can build upon.
 
-Prerequisites:
+## Prerequisites:
 Java Development Kit (JDK)
 
 BouncyCastle library for encryption (you can add it via Maven or download the JAR).
